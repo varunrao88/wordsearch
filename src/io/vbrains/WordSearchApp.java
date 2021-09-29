@@ -27,5 +27,6 @@ public class WordSearchApp {
             }
             System.out.println("");
         }
+        
     }
 }
